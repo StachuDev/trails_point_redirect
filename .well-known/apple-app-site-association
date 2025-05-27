@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "Z6P4R6N9KH.pl.icsolution.drogowskaz.app",
+        "paths": [
+          "/trailpoint",
+          "/trailpoint/*",
+          "/trailpoint?*"
+        ]
+      }
+    ]
+  }
+}
